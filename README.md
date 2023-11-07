@@ -15,9 +15,9 @@ class Nico:
     languages = ["Python", "Javascript"]
     webFrameworks = ["Flask", "Django"]
     web_technologies = ["HTML", "CSS", "Bootstrap"]
-    front_end_frameworks = ["jQuery"]
+    front_end_frameworks = "jQuery"
     version_control = ["Git", "GitHub"]
-    databases = ["MySQL"]
+    databases = "MySQL"
 ```
 
 ## Languages and frameworks
