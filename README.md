@@ -46,6 +46,7 @@ class Nico:
 
 <br>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-dickel-storrer-5905b4281">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>      
